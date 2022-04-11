@@ -1,5 +1,5 @@
 # week-6-ufukbakan
-veritabanını dump restore etmeniz gerekli değildir sadece application.properties dosyasını herhangi bir veritabanına bağlanacak şekilde güncellemeniz halinde java data jpa tarafından tablolar ve örnek veri otomatik oluşturulacaktır.
+application.properties dosyasını herhangi bir veritabanına bağlanacak şekilde güncelleyiniz
 
 ## tamamlanan gereksinimler:
 Java’da araç kiralama portalı yapılması.
